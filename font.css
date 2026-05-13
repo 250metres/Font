@@ -1,0 +1,6 @@
+body, p, h1, h2, h3, h4, h5, h6, span, div, a, ul, ol, li, dl, dt, dd, b, strong, i, em, u, s, strike, del, ins, small, big, mark, sub, sup, abbr, acronym, code, pre, samp, kbd, var, blockquote, q, cite, label, input, textarea, select, option, optgroup, button, output, meter, progress, legend, fieldset, caption, table, thead, tbody, tfoot, tr, th, td, article, section, main, aside, header, footer, nav, details, summary, figcaption, time, address, bdi, bdo, ruby, rt, rp, wbr, dialog, template, noscript {
+   font-family: Arial, sans-serif;
+   font-size: 12px;
+   margin: 0;
+   padding: 0;
+}
